@@ -1,3 +1,3 @@
 # penguin-prediction
 
-https://penguin-withml.herokuapp.com/
+https://penguin-withml.herokuapp.com
