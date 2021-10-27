@@ -4,6 +4,10 @@ import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
 
+
+image= Image.open('penguin.png')
+st.image(image, use_column_width=True) 
+
 st.write("""
 # Penguin Prediction App
 
