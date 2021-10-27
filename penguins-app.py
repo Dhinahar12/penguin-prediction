@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
-
+from PIL import Image
 
 image= Image.open('penguin.png')
 st.image(image, use_column_width=True) 
