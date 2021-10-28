@@ -11,6 +11,8 @@ st.image(image, use_column_width=True)
 st.write("""
 # Penguin Prediction App
 
+This is done By Dhinahar [Github](https://github.com/Dhinahar12)
+
 This app predicts the **Palmer Penguin** species!
 
 Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
